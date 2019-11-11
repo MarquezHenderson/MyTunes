@@ -1,0 +1,9 @@
+P:\Code\C\MyTunes\MyTunes\bin\Debug\MyTunes.exe.config
+P:\Code\C\MyTunes\MyTunes\bin\Debug\MyTunes.exe
+P:\Code\C\MyTunes\MyTunes\bin\Debug\MyTunes.pdb
+P:\Code\C\MyTunes\MyTunes\obj\Debug\MyTunes.fm_Main.resources
+P:\Code\C\MyTunes\MyTunes\obj\Debug\MyTunes.Properties.Resources.resources
+P:\Code\C\MyTunes\MyTunes\obj\Debug\MyTunes.csproj.GenerateResource.Cache
+P:\Code\C\MyTunes\MyTunes\obj\Debug\MyTunes.exe
+P:\Code\C\MyTunes\MyTunes\obj\Debug\MyTunes.pdb
+P:\Code\C\MyTunes\MyTunes\obj\Debug\MyTunes.csprojResolveAssemblyReference.cache
